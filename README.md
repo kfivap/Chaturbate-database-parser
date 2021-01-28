@@ -8,10 +8,15 @@ Send it all to database
 to work correct need to have installed modules:
 
 import requests
+
 import time
+
 import random
+
 import datetime
+
 import re
+
 import sqlite3 as sq
 
 if error use pip install
